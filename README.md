@@ -43,4 +43,10 @@ I made the page work well on Desktop and Mobile to ensure accessibility.
 
 Here is the link to the web page alongside screenshots with desktop and mobile view
 
+https://jnhr-ios.github.io/portfolio/
+
+
+
+
+![desktop view](https://github.com/jnhr-ios/portfolio/assets/161101005/3b7e229e-8c38-4372-9d32-4f789dc82e89)![mobile view](https://github.com/jnhr-ios/portfolio/assets/161101005/d3198a3e-c54b-4514-9bc6-9676a9f7d010)
 
